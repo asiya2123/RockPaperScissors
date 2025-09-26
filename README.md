@@ -29,7 +29,7 @@
 
 ## 📸Preview of Project
 
-![Rock Paper Scissor Preview](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/1efd0c12516f9d9397aa56ffd8f79227d0772465/Screenshot%202025-09-23%20200543.png)
+![Rock Paper Scissor Preview](https://github.com/asiya2123/RockPaperScissors/blob/86dcf550f499bfc09f1320ef13c2d11d5f27eac4/Screenshot%202025-09-25%20182151.png)
 
 ---
 
@@ -58,15 +58,15 @@
 
 ## 📸Preview-If User Won The Game
 
-![](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/9f0b6ee6ad792295b278e766f9544cbf5e0a7688/Screenshot%202025-09-23%20200625.png)
+![](https://github.com/asiya2123/RockPaperScissors/blob/86dcf550f499bfc09f1320ef13c2d11d5f27eac4/Screenshot%202025-09-25%20182218.png)
 
 ## 📸Preview-If User Lose The Game
 
-![](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/062a3c3a13933de8d656a183037b95a63384728c/Screenshot%202025-09-23%20200653.png)
+![](https://github.com/asiya2123/RockPaperScissors/blob/86dcf550f499bfc09f1320ef13c2d11d5f27eac4/Screenshot%202025-09-25%20182243.png)
 
 ## 📸Preview-If User & computer choose same option
 
-![](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/5f18474c35755ff97ba42dfb2307512a1de1f161/Screenshot%202025-09-23%20200605.png)
+![](https://github.com/asiya2123/RockPaperScissors/blob/86dcf550f499bfc09f1320ef13c2d11d5f27eac4/Screenshot%202025-09-25%20182303.png)
 
 ---
 
