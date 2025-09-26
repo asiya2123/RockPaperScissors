@@ -56,11 +56,11 @@
 
 ---
 
-## 📸Preview-If User Won The Game
+## 📸Preview-If User Lose The Game
 
 ![](https://github.com/asiya2123/RockPaperScissors/blob/86dcf550f499bfc09f1320ef13c2d11d5f27eac4/Screenshot%202025-09-25%20182218.png)
 
-## 📸Preview-If User Lose The Game
+## 📸Preview-If User Won The Game
 
 ![](https://github.com/asiya2123/RockPaperScissors/blob/86dcf550f499bfc09f1320ef13c2d11d5f27eac4/Screenshot%202025-09-25%20182243.png)
 
