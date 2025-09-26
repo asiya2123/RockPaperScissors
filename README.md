@@ -1,95 +1,98 @@
-# 🎮Rock Paper Scissors - Game
+# 🪨✂️📄 Rock Paper Scissors - Game
 
 ## 📌 **Overview**
 
-- **This is a simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. It allows users to play against the computer in a classic game of strategy and chance. The project demonstrates core frontend development skills including DOM manipulation, event handling, and responsive UI design.**
+- **A simple yet interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. This project demonstrates core frontend skills including DOM manipulation, event handling, and responsive design.**
 
 ---
 
 ## 🌐 **Live Website**
-🚀 **Experience the Game live!**
-- **Live Website** - [Rock Paper Scissors -Game]( https://asiya2123.github.io/RockPaperScissors/)
+- **Experience the game**
+- **Click here to play the game** - [Rock Paper Scissors -Game]( https://asiya2123.github.io/RockPaperScissors/)
 
 ---
 
 ## 🔍 **How to Play**
 
-🔹 Click your weapon of choice: 🪨 Rock, 📄 Paper, ✂️ Scissors
-
-🔹 The computer makes its move
-
-🔹 The winner is revealed instantly
-
-🔹 Scoreboard updates in real-time
-
-🔹 Play as many rounds as you like!
+- Choose Rock, Paper, or Scissors.
+- The computer randomly selects its move.
+- The winner is determined based on classic rules:
+   - Rock beats Scissors
+   - Scissors beats Paper
+   - Paper beats Rock
+- Scores are updated after each round.
 
 
 ---
 
 ## 📸Preview of Project
 
-![Rock Paper Scissor Preview](https://github.com/asiya2123/RockPaperScissors/blob/86dcf550f499bfc09f1320ef13c2d11d5f27eac4/Screenshot%202025-09-25%20182151.png)
+![Rock Paper Scissor Preview](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/1efd0c12516f9d9397aa56ffd8f79227d0772465/Screenshot%202025-09-23%20200543.png)
 
 ---
 
 ## 🌟 Features
 
-✔ **Responsive Design** 
+✔ **Player vs Computer gameplay**
 
-✔ **Semantic HTML structure**
+✔ **Dynamic score tracking**
 
-✔ **Clean and organized CSS**
+✔ **Visual feedback for each round**
 
-✔ **Custom fonts and icons**
+✔ **Responsive design for mobile and desktop**
 
-✔ **Cross-browser compatibility**
-
+✔ **Clean and intuitive UI**
 
 ---
 
 ## 💻 Technologies Used
 
-- **HTML** – Provides the structure and content of the website.
-- **CSS** – Styles the website for an engaging user experience.
-- **JavaScript** – Enhances interactivity, including real-time updates and dynamic messages.
+- **HTML5**
+- **CSS3** (Flexbox, Transitions)
+- **JavaScript** (ES6+)
+
 
 ---
-
-## 📸Preview-If User Lose The Game
-
-![](https://github.com/asiya2123/RockPaperScissors/blob/86dcf550f499bfc09f1320ef13c2d11d5f27eac4/Screenshot%202025-09-25%20182218.png)
 
 ## 📸Preview-If User Won The Game
 
-![](https://github.com/asiya2123/RockPaperScissors/blob/86dcf550f499bfc09f1320ef13c2d11d5f27eac4/Screenshot%202025-09-25%20182243.png)
+![](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/9f0b6ee6ad792295b278e766f9544cbf5e0a7688/Screenshot%202025-09-23%20200625.png)
+
+## 📸Preview-If User Lose The Game
+
+![](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/062a3c3a13933de8d656a183037b95a63384728c/Screenshot%202025-09-23%20200653.png)
 
 ## 📸Preview-If User & computer choose same option
 
-![](https://github.com/asiya2123/RockPaperScissors/blob/86dcf550f499bfc09f1320ef13c2d11d5f27eac4/Screenshot%202025-09-25%20182303.png)
+![](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/5f18474c35755ff97ba42dfb2307512a1de1f161/Screenshot%202025-09-23%20200605.png)
 
 ---
 
-## 🧠 **Behind the Scenes**
+## 🧠 Logic Overview
+- **JavaScript listens for button clicks.**
+- **A random choice is generated for the computer.**
+- **A comparison function determines the winner.**
+- **Scores and messages are updated dynamically in the DOM.**
 
-- Random number generation for computer moves
-- Conditional logic to determine outcomes
-- DOM manipulation for dynamic updates
-- Event listeners for user interaction
 
 ---
 
-## 🚀 Future Plans
-🔹  Add sound effects
+## 📈 Future Improvements
 
-🔹 Reset button
+🔹 Add sound effects and animations
 
-🔹  Smarter AI opponent
+🔹 Include a reset button
 
-🔹 Multiplayer mode
+🔹 Track win history or add levels
 
+🔹 Multiplayer mode or AI difficulty settings
 
 💡 **Stay tuned for updates!** 🎉
+
+---
+
+## 🙌 Acknowledgments
+- Inspired by classic games and beginner-friendly JavaScript tutorials.
 
 ---
 
