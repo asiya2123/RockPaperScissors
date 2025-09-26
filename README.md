@@ -60,7 +60,7 @@
 
 ## 📸Preview-If User Lose The Game
 
-![](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/062a3c3a13933de8d656a183037b95a63384728c/Screenshot%202025-09-23%20200653.png)
+![](https://github.com/asiya2123/RockPaperScissors/blob/a15f9e259ec3e48472ce5e39c5b1ea258ac25399/Screenshot%202025-09-25%20182218.png)
 
 ## 📸Preview-If User & computer choose same option
 
