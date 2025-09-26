@@ -54,7 +54,7 @@
 
 ---
 
-## 📸Preview-If User Won The Game
+## 📸Preview-If Paper beats rock
 
 ![](https://github.com/asiya2123/RockPaperScissors/blob/1df5b19c2a94a9585f2e7b7d937fa338cc89ddba/Screenshot%202025-09-25%20182243.png)
 
@@ -62,9 +62,9 @@
 
 ![](https://github.com/asiya2123/RockPaperScissors/blob/a15f9e259ec3e48472ce5e39c5b1ea258ac25399/Screenshot%202025-09-25%20182218.png)
 
-## 📸Preview-If User & computer choose same option
+## 📸Preview-If Scissors beats paper
 
-![](https://github.com/bhavani-mhrl/rockPaperScissors-project/blob/5f18474c35755ff97ba42dfb2307512a1de1f161/Screenshot%202025-09-23%20200605.png)
+![](https://github.com/asiya2123/RockPaperScissors/blob/dd586a0b20be783833a785642150a327a5dbde70/Screenshot%202025-09-25%20182303.png)
 
 ---
 
